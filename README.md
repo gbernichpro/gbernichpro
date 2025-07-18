@@ -12,8 +12,8 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, aprendizado contínuo e
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula)
+![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbernichpro&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbbernichpro&layout=compact&theme=dracula)
 
 ## 📫 Contato
 - Email: [geovane@gbernich.pro]
