@@ -13,7 +13,7 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, aprendizado contínuo e
 
 ## 📊 GitHub Stats
 ![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbernichpro&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbbernichpro&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbernichpro&layout=compact&theme=dracula)
 
 ## 📫 Contato
 - Email: [geovane@gbernich.pro]
