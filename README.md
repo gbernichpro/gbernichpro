@@ -16,9 +16,9 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, aprendizado contínuo e
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula)
 
 ## 📫 Contato
-- Email: [seuemail@exemplo.com]
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-- Portfólio: [www.seusite.com](https://www.seusite.com)
+- Email: [geovane@gbernich.pro]
+- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/gbernich)
+- Portfólio: [www.seusite.com](https://www.gbernich.pro)
 
 ---
 
