@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou GBernich
 
-<!--
-**gbernichpro/gbernichpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, aprendizado contínuo e criação de soluções que fazem a diferença. Trabalho principalmente com **[linguagens e tecnologias principais, ex: PHP, JavaScript, Laravel, React]**, e estou sempre em busca de novos desafios.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula)
+
+## 📫 Contato
+- Email: [seuemail@exemplo.com]
+- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- Portfólio: [www.seusite.com](https://www.seusite.com)
+
+---
+
+⭐️ Obrigado por visitar meu perfil!
