@@ -28,7 +28,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=fff)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=fff)
 
-## 📈 &nbsp;Estatísticas
+## 📈 &nbsp;Estatísticas 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gbernichpro&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbernichpro&theme=github-dark&hide_border=true" alt="GitHub Streak">
