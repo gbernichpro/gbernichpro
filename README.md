@@ -28,13 +28,6 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=fff)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=fff)
 
-## 📈 &nbsp;Estatísticas 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gbernichpro&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbernichpro&theme=github-dark&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbernichpro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Langs">
-</p>
-
 ## 👨‍💻 &nbsp;Sobre mim
 - 🚀 **Especialista em Desenvolvimento Web** com experiência em **PHP, JavaScript, HTML, CSS**, e **WordPress**.
 - ⚙️ Experiência sólida em **administração de servidores Linux e Windows Server**, garantindo a estabilidade de ambientes de produção.
