@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=35ced3&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+gbernichpro!;Desenvolvedor+Full+Stack;Explorando+novas+tecnologias" alt="Typing SVG" />
 </div>
-
 <h1 align="center"></h1>
 <h3 align="center">Um desenvolvedor apaixonado por construir soluções web modernas e escaláveis.</h3>
 
